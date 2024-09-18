@@ -2,5 +2,4 @@
 
 
 
-
-![image](https://github.com/user-attachments/assets/7ec62721-7858-4a56-9996-b9ed7722084f)
+![image](https://github.com/user-attachments/assets/26a118d4-5560-4085-a910-27d07cecf0e8)
