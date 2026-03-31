@@ -1,2 +1,5 @@
-## DREAM BIG 
-![MARTY-SUPREME-DANCE](https://github.com/user-attachments/assets/3cc345b2-8428-47c5-8322-ba5ca7501f6f)
+##Hola! 🙋🏻‍♂️ ,Soy Carlos, desarrollador enfocado en aplicaciones web y apasionado por la tecnología.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/carlos-garrido-007b15352)
