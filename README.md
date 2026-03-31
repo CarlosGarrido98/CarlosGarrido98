@@ -19,4 +19,3 @@ Me gusta trabajar en equipo, compartir ideas y aprender también de otros, porqu
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlosGarrido98&theme=tokyonight)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Carlosgarrido98)](https://git.io/streak-stats)
